@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" height='50vh'/></p>
+<p align="center"><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width='50%'/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/alex-kochnev-229b88235/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
